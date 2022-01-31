@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently following a course of the TNV academy
+
 <!--
 **FabioSorrentino/FabioSorrentino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
