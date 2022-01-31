@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Fabio Sorrentino 👋
 
 - 🔭 I’m currently following a course of the TNV academy
 
